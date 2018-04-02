@@ -17,5 +17,7 @@ public class Rectangle {
        return luas;
     
     } 
-    
+    void cetakLuas(){
+        System.out.println("Luasnya Adalah:"+hitungLuas());
         }
+}
